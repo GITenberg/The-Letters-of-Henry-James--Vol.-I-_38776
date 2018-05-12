@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8373
     wikipedia: http://en.wikipedia.org/wiki/Percy_Lubbock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38776#The-Letters-of-Henry-James--Vol.-I-
 gutenberg_issued: '2012-02-06'
 gutenberg_type: Text
 identifiers:
